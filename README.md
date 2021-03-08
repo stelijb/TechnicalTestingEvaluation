@@ -13,7 +13,7 @@ _These instructions will guide you to be able to execute and understand the proj
 _What things do you need to install the software and how to install them?_
 
 ```
-First of all and IDE like PyCharm: https://www.jetbrains.com/es-es/pycharm/
+First of all install an IDE like PyCharm: https://www.jetbrains.com/es-es/pycharm/
 1. Python - https://www.python.org/
 2. Robotframework - https://robotframework.org/
 3. SeleniumLibrary - https://github.com/robotframework/SeleniumLibrary/
